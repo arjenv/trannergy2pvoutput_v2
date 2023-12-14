@@ -8,7 +8,7 @@ This is Version2. Some code optimisation and better Telnet.
 
 You can telnet this device
 
-telnet {IPNUMBER}
+telnet IPNUMBER
 e.g. telnet 192.168.1.1
 
 (fill in you IP number)
