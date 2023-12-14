@@ -12,12 +12,19 @@ telnet <IPNUMBER>
 press 'H' or 'h' for help:
 
 R: Reset
+
 C: Clear and stop
+
 F: FreeHeap
+
 B: Reboot report
+
 V: Version
+
 D: Toggle Debug
+
 L: Latest output
+
 
 It polls the Trannergy Inverter every minute (press 'L" if you cannot wait)
 Every 5 minutes it uploads data to PVoutput.org
