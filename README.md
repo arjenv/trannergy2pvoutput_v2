@@ -6,7 +6,8 @@ For ESP8266. Might work with ESP32, not tested!
 
 This is Version2. Some code optimisation and better Telnet.
 
-You can telnet this device 
+You can telnet this device
+
 telnet <IPNUMBER>
 
 press 'H' or 'h' for help:
